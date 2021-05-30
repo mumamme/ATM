@@ -1,0 +1,40 @@
+------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
+working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+project_name=ATM_test
+arg=D:\cygwin64\bin\g++.exe
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/ATM.o
+arg=-c
+arg=ATM.cxx
+------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
+working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+project_name=ATM_test
+arg=D:\cygwin64\bin\g++.exe
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Bank.o
+arg=-c
+arg=Bank.cxx
+------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
+working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+project_name=ATM_test
+arg=D:\cygwin64\bin\g++.exe
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/BaseDisplay.o
+arg=-c
+arg=BaseDisplay.cxx
+------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
+working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+project_name=ATM_test
+arg=D:\cygwin64\bin\g++.exe
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Account.o
+arg=-c
+arg=Account.cxx
