@@ -14,7 +14,21 @@ void ATM::viewAccount(int accountNumber, string password)
         myDisplay->showInfoToUser("Invalid account");
     }
 }
-
+void foo() {
+    int* ptr;
+    
+    if(ptr > 0){         // 违规
+        //...
+    }
+    
+    if(ptr < (int*)0){   // 违规
+        //...
+    }
+    
+    if(NULL >= ptr){     // 违规
+        //...
+    }
+}
 void ATM::fillUserRequest(UserRequest request, double amount)
 {
     if (myCurrentAccount)
