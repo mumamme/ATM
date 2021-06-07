@@ -45,6 +45,21 @@ void foo() {
         //...
     }
 }
+void foo1() {
+    int* ptr;
+    
+    if(ptr > 0){         // 违规
+        //...
+    }
+    
+    if(ptr < (int*)0){   // 违规
+        //...
+    }
+    
+    if(NULL >= ptr){     // 违规
+        //...
+    }
+}
 void ATM::showBalance()
 {
     double bal = myCurrentAccount->getBalance();
