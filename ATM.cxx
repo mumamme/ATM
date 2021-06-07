@@ -30,7 +30,21 @@ void ATM::fillUserRequest(UserRequest request, double amount)
 				break;
         }
 }
-
+void foo() {
+    int* ptr;
+    
+    if(ptr > 0){         // 违规
+        //...
+    }
+    
+    if(ptr < (int*)0){   // 违规
+        //...
+    }
+    
+    if(NULL >= ptr){     // 违规
+        //...
+    }
+}
 void ATM::showBalance()
 {
     double bal = myCurrentAccount->getBalance();

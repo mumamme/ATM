@@ -1,5 +1,5 @@
 ------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
-working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+working_dir=C:\Users\86156\Desktop\gittest\ATM
 project_name=ATM_test
 arg=D:\cygwin64\bin\g++.exe
 arg=-g
@@ -9,7 +9,7 @@ arg=obj/ATM.o
 arg=-c
 arg=ATM.cxx
 ------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
-working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+working_dir=C:\Users\86156\Desktop\gittest\ATM
 project_name=ATM_test
 arg=D:\cygwin64\bin\g++.exe
 arg=-g
@@ -19,7 +19,7 @@ arg=obj/Bank.o
 arg=-c
 arg=Bank.cxx
 ------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
-working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+working_dir=C:\Users\86156\Desktop\gittest\ATM
 project_name=ATM_test
 arg=D:\cygwin64\bin\g++.exe
 arg=-g
@@ -29,7 +29,7 @@ arg=obj/BaseDisplay.o
 arg=-c
 arg=BaseDisplay.cxx
 ------- cpptestscan v.10.5.0.20201016B2719 (cpptesttrace) -------
-working_dir=D:\Program Files\Parasoft\C++test\10.5\examples\ATM
+working_dir=C:\Users\86156\Desktop\gittest\ATM
 project_name=ATM_test
 arg=D:\cygwin64\bin\g++.exe
 arg=-g
