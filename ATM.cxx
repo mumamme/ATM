@@ -29,6 +29,21 @@ void foo() {
         //...
     }
 }
+void foo2() {
+    int* ptr;
+    
+    if(ptr > 0){         // 违规   6月7日测试
+        //...
+    }
+    
+    if(ptr < (int*)0){   // 违规
+        //...
+    }
+    
+    if(NULL >= ptr){     // 违规
+        //...
+    }
+}
 void ATM::fillUserRequest(UserRequest request, double amount)
 {
     if (myCurrentAccount)
